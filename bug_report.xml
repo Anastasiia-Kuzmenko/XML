@@ -1,1 +1,24 @@
+<bug_report>
+<Precondition>Create new user</Precondition>
+  
+<Steps to Reproduce>
+  Open the login page of the admin panel
+  Enter valid credentials into the «Username» and «Password» text fields
+  Press Enter button
+</Steps to Reproduce>
 
+  <Actual Result>
+    You have entered an incorrect user or password message is displayed on the login page</Actual Result>
+    
+<Expected Result>Sucsesfully registration</Expected Result>
+
+  <Build number>5</Build number>
+
+  <Priority>hight</Priority>
+
+  <Severity>blocked</Severity>
+
+  <Reporter>Kuzmenko</Reporter>
+
+  <Status>new</status>
+  </bug_report>
